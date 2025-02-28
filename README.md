@@ -7,5 +7,3 @@ PASOS PARA LEVANTAR BACKEND DE PRUEBA TASK-MANAGEMENT-FRONTEND
     - npm start
     
 ----------------------------------------------------------------
-
-La documentacion de las APIs se encuentran configuradas con Swagger, en la ruta "http:localhost:3001/docs" dependiendo del host y port.
